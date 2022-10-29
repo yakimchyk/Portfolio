@@ -1,9 +1,9 @@
 # Portfolio projects:
 
-https://yakimchyk.github.io/project_1/
+https://yakimchyk.github.io/project_1_dist/
 
-https://yakimchyk.github.io/project_3/
+https://yakimchyk.github.io/project_3_dist/
 
-https://yakimchyk.github.io/project_4/
+https://yakimchyk.github.io/project_4_dist/
 
-https://yakimchyk.github.io/project_5/
+https://yakimchyk.github.io/project_5_dist/

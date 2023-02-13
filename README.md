@@ -12,4 +12,4 @@ https://yakimchyk.github.io/project_5_dist/
 
 https://yakimchyk.github.io/Kartochki_dist/
 
-https://github.com/yakimchyk/Kartochki_src
+https://github.com/yakimchyk/Kartochki_src/

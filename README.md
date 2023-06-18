@@ -4,7 +4,7 @@ Project 1:
 
 https://yakimchyk.github.io/project_1_dist/
 
-https://github.com/yakimchyk/project_1_src/ - исходники
+https://github.com/yakimchyk/project_1_dist/ - исходники
 
 Project 3:
 

@@ -2,9 +2,9 @@
 
 Project 6:
 
-https://yakimchyk.github.io/project_5_dist/
+https://yakimchyk.github.io/project_6_dist/
 
-https://github.com/yakimchyk/project_5_src/ - исходники
+https://github.com/yakimchyk/project_6_src/ - исходники
 
 Project 5:
 
